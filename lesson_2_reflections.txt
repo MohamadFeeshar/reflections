@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+	
+	I get a repository with no commits because nothing changed in the files after I created the repository , I need it to keep track of the changes I've made in form of commits to refer to it later.
