@@ -1,21 +1,21 @@
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
-    I see there is adifferent color or a +/- before the line
+    I see there is a different color or a +/- before the line
     that has a problem which gives me grasp on what I have
     typed wrong.
 
 How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
 
-    because I can know all the changes that I have commited 
+    because I can know all the changes that I have committed 
     that made it what I have at the moment. here I will understand what i wanted to do or what I was thinking kind of at each version
 
 What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
 docs does?
 
-    I can choose whether or not to save what I have changed it the file so I don't get a large change or too small one per one because every change has a logical purpose that I added to the file/proj ,but If something goes wrong I have done many changes and forget to save at safe bases this will make it really difficult to understand what gone wrong(if something gone wrong) or the PC froze/shutdown then I have lost alot of changes. 
+    I can choose whether or not to save what I have changed it the file so I don't get a large change or too small one per one because every change has a logical purpose that I added to the file/proj ,but If something goes wrong I have done many changes and forget to save at safe bases this will make it really difficult to understand what gone wrong(if something gone wrong) or the PC froze/shutdown then I have lost a lot of changes. 
 
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
@@ -34,4 +34,4 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    I will use it in code mostly on projects for collage and work --hopfully-- and I guess it will be really helpful in work and it will be really useful in teams work - to know who screwed up -
+    I will use it in code mostly on projects for collage and work --hopefully-- and I guess it will be really helpful in work and it will be really useful in teams work - to know who screwed up -
