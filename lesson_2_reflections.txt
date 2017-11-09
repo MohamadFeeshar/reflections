@@ -21,3 +21,5 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 	the two braches become one with first to merge with(ex. master , coins will become master) . to see how they look like after the merging(I didn't understand the meaning of the second question anyway).
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
